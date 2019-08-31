@@ -1,0 +1,1 @@
+This folder contains PDF renderings of section notes for people who want to look at the notes without starting a Jupyter notebook session.  Since git isn't very good at tracking changes to binary files efficiently, I'll probably wait until sections get to a state where they're not likely to change for a while before including them here.
