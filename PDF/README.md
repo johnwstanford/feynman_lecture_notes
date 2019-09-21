@@ -1,3 +1,5 @@
 This folder contains PDF renderings of section notes for people who want to look at the notes without starting a Jupyter notebook session.  Since git isn't very good at tracking changes to binary files efficiently, I'll probably wait until sections get to a state where they're not likely to change for a while before including them here.
 
 Some sections seem to show up better when rendered to a PDF directly from Jupyter and some seem to show up better when I render them to HTML, then print to PDF.  If you notice that the formatting isn't completely consistent, I'm aware of it and I'm working on figuring out how to make all sections render uniformly and correctly.
+
+Update: It seems like saving from Jupyter to a .tex file produces the best results, but it's a lot less automated.  This is probably how I'll do PDF rendering from now on.  Eventually, I'll go back and re-do some of the old sections.
